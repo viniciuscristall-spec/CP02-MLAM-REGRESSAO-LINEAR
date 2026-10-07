@@ -59,8 +59,6 @@ Deixe `tabela1620.csv` e `abcr_0826.xlsx` na mesma pasta do notebook.
 | `PIB_x_ABCR_regressao.ipynb` | Notebook completo (dados, correlação, modelo, avaliação e conclusões) |
 | `tabela1620.csv` | PIB trimestral (SIDRA/IBGE) |
 | `abcr_0826.xlsx` | Índice ABCR mensal |
-| `pib_abcr_anual.csv` | Tabela anual gerada pelo notebook |
-| `dispersao_pib_abcr.png` | Gráfico de dispersão gerado pelo notebook |
 
 ## Tecnologias
 
